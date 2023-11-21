@@ -4,7 +4,7 @@ import Hero from "./components/Hero";
 
 const App = () => {
   return (
-    <div className="min-h-screen font-lato flex flex-col">
+    <div className="min-h-screen font-lato flex flex-col bg">
       <Header />
       <Hero />
       <Carousel />
